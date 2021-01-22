@@ -5,6 +5,5 @@ This project contains 5 steps<br/>
 3.Feature Engineering<br/>
 4.Modeling & Evaluation<br/>
 5.Insights & Recommendation<br/>
-...
 
-#subheader
+Code are modified based on the answer given by The forage
